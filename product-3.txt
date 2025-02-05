@@ -1,0 +1,28 @@
+TastyHub - Product Requirement Document
+Objective
+Create a web application for users to share and discover recipes from around the world.
+Functional Requirements
+User Registration and Profiles
+User Story: As a user, I want to create a profile to share my recipes and follow other users.
+Acceptance Criteria:
+Users can sign up with email or social media accounts.
+Users can create and edit personal profiles.
+Users can follow and be followed by other users.
+Recipe Submission
+User Story: As a user, I want to submit my recipes for others to try.
+Acceptance Criteria:
+Users can create, edit, and delete recipes.
+Recipes include title, ingredients, steps, photos, and tags.
+Users can categorize recipes (e.g., vegan, gluten-free).
+Recipe Discovery
+User Story: As a user, I want to discover new recipes based on my preferences.
+Acceptance Criteria:
+Users can search recipes by ingredients, tags, and categories.
+The platform recommends recipes based on user preferences and activity.
+Users can browse trending and highly rated recipes.
+Social Features
+User Story: As a user, I want to interact with other users and their recipes.
+Acceptance Criteria:
+Users can like, comment on, and share recipes.
+Users receive notifications for comments and likes on their recipes.
+Users can create and join groups for specific cuisines or dietary preferences.

@@ -1,0 +1,28 @@
+WealthWise - Product Requirement Document
+Objective
+Create a web and mobile application that helps users manage their finances, track expenses, and plan budgets.
+Functional Requirements
+User Registration and Profile
+User Story: As a user, I want to create a profile to manage my financial data securely.
+Acceptance Criteria:
+Users can sign up using email or social media accounts.
+Users can set up multi-factor authentication for added security.
+Users can input and edit personal financial data (income, expenses, savings goals).
+Expense Tracking
+User Story: As a user, I want to track my daily expenses to monitor my spending habits.
+Acceptance Criteria:
+Users can manually input expenses or connect to bank accounts for automatic tracking.
+Expenses are categorized automatically (e.g., groceries, entertainment).
+Users can view expense reports and trends over time.
+Budget Planning
+User Story: As a user, I want to create and manage budgets to control my spending.
+Acceptance Criteria:
+Users can set monthly or yearly budgets for different categories.
+The app provides budget recommendations based on spending habits.
+Users receive alerts when they are close to exceeding their budgets.
+Financial Goals
+User Story: As a user, I want to set and track financial goals to achieve my savings targets.
+Acceptance Criteria:
+Users can set short-term and long-term financial goals (e.g., saving for a vacation, buying a house).
+The app tracks progress towards goals and provides tips for staying on track.
+Users can adjust goals and see the impact on their overall financial plan.

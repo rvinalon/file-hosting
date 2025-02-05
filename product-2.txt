@@ -1,0 +1,28 @@
+FitPulse - Product Requirement Document
+Objective
+Develop a mobile application that helps users track their fitness activities, monitor health metrics, and set fitness goals.
+Functional Requirements
+User Registration and Profile
+User Story: As a user, I want to create a profile so that my fitness data can be personalized.
+Acceptance Criteria:
+Users can sign up using email or social media accounts.
+Users can input personal data (age, weight, height, etc.).
+Users can set fitness goals (weight loss, muscle gain, etc.).
+Activity Tracking
+User Story: As a user, I want to track my daily activities to monitor my fitness progress.
+Acceptance Criteria:
+The app tracks steps, calories burned, and distance traveled.
+The app integrates with wearable devices for real-time data.
+Users can manually input activities (running, cycling, etc.).
+Health Metrics Monitoring
+User Story: As a user, I want to monitor my health metrics to ensure I am staying healthy.
+Acceptance Criteria:
+The app records heart rate, sleep patterns, and hydration levels.
+Users receive alerts for unusual health metrics.
+The app provides weekly and monthly health reports.
+Goal Setting and Achievements
+User Story: As a user, I want to set fitness goals and track my progress.
+Acceptance Criteria:
+Users can set daily, weekly, and monthly fitness goals.
+The app tracks progress towards goals and provides motivational feedback.
+Users receive badges and rewards for achieving milestones.
